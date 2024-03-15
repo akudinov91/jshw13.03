@@ -40,3 +40,33 @@
 // });
 
 // console.log(positiveNumbers);
+
+//Задача 4.
+
+// const keyValuePairs = [
+//     ["key1", "value1"],
+//     ["key2", "value2"],
+//     ["key3", "value3"]
+// ];
+
+// const obj = {};
+
+// keyValuePairs.forEach(pair => {
+//     const key = pair[0];
+//     const value = pair[1];
+//     obj[key] = value;
+// });
+
+// console.log(obj);
+
+//Задача 5.
+
+// const stringsArray = ["Hello", "world", "hows", "gone?"];
+
+// const lengthsArray = [];
+
+// stringsArray.forEach((str) => {
+//   lengthsArray.push(str.length);
+// });
+
+// console.log(lengthsArray);
